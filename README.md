@@ -13,4 +13,4 @@
 ```bash
 pip install playwright
 playwright install
-python qeepl_booking.py
+python test_qeepl_booking.py
